@@ -1,0 +1,22 @@
+# Compilados
+*.class
+/out/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Arquivos de build (caso use Maven/Gradle futuramente)
+target/
+build/
+
+# Outros arquivos temporários
+*.tmp
+*.bak
